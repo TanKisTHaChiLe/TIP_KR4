@@ -1,0 +1,39 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Лев",
+      "image": "https://i.pinimg.com/originals/e8/09/b1/e809b1eca74f67afa484bbb763725c04.jpg",
+      "description": "Король саванны",
+      "category": "mammal"
+    },
+    {
+      "id": 2,
+      "name": "Слон",
+      "image": "https://avatars.mds.yandex.net/i?id=1b69a7da239ab41668bd0d3f21dd03cc_l-5234419-images-thumbs&n=13",
+      "description": "Крупнейшее сухопутное животное",
+      "category": "mammal"
+    },
+    {
+      "id": 3,
+      "name": "Дельфин",
+      "image": "https://img.freepik.com/free-photo/dolphin-jumping-out-water_23-2150884479.jpg?semt=ais_hybrid&w=740&q=80",
+      "description": "Умное морское млекопитающее",
+      "category": "mammal"
+    },
+    {
+      "id": 4,
+      "name": "Орёл",
+      "image": "https://cdn.nur.kz/images/1120/ff1fff11c8aea9ed.jpeg",
+      "description": "Величественная хищная птица",
+      "category": "bird"
+    },
+    {
+      "id": 5,
+      "name": "Волк",
+      "image": "https://i.ytimg.com/vi/qRrt7eSZSbE/maxresdefault.jpg",
+      "description": "Стайный хищник лесов",
+      "category": "mammal"
+    }
+  ]
+}
